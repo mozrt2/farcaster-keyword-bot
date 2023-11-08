@@ -1,6 +1,6 @@
 # Farcaster Keyword Bot
 
-This Telegram bot sends notifications about recent [Farcaster](https://www.farcaster.xyz/) posts based on a set of keywords. It is built on top of the fantastic [Searchcaster API](https://searchcaster.xyz/docs).
+This Telegram bot shares the latest [Farcaster](https://www.farcaster.xyz/) posts containing a tracked keyword. It is built on top of the fantastic [Searchcaster API](https://searchcaster.xyz/docs).
 
 ## Setup
 
