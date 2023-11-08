@@ -1,0 +1,15 @@
+{
+  "name": "farcaster-keyword-bot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "2",
+    "node-telegram-bot-api": "^0.63.0",
+    "vercel": "^32.5.0"
+  },
+  "scripts": {
+    "deploy": "vercel --prod"
+  }
+}
