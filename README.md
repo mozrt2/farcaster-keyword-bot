@@ -66,7 +66,7 @@ The bot will now fetch recent posts from Searchcaster based on your keywords and
 
 ## Deploying the Bot
 
-This project was set up and tested with (Vercel cron jobs)[https://vercel.com/docs/cron-jobs]. It should seamlessly work with other platforms.
+This project was set up and tested with [Vercel cron jobs](https://vercel.com/docs/cron-jobs). It should seamlessly work with other platforms.
 
 ## License
 
