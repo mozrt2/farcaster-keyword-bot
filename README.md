@@ -1,6 +1,6 @@
 # Farcaster Keyword Bot
 
-![Screenshot](tgScreen.png)
+<img src="tgScreen.png" alt="Screenshot" width="280"/>
 
 This Telegram bot shares the latest Farcaster posts containing a tracked keyword. It is built on top of the fantastic [Searchcaster API](https://searchcaster.xyz/docs).
 
