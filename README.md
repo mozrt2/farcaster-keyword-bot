@@ -1,6 +1,8 @@
 # Farcaster Keyword Bot
 
-This Telegram bot shares the latest [Farcaster](https://www.farcaster.xyz/) posts containing a tracked keyword. It is built on top of the fantastic [Searchcaster API](https://searchcaster.xyz/docs).
+![Screenshot](tgScreen.png)
+
+This Telegram bot shares the latest Farcaster posts containing a tracked keyword. It is built on top of the fantastic [Searchcaster API](https://searchcaster.xyz/docs).
 
 ## Setup
 
@@ -66,7 +68,7 @@ The bot will now fetch recent posts from Searchcaster based on your keywords and
 
 ## Deploying the Bot
 
-This project was set up and tested with [Vercel cron jobs](https://vercel.com/docs/cron-jobs). It should seamlessly work with other platforms.
+This project was set up and tested with [Vercel cron jobs](https://vercel.com/docs/cron-jobs). It should seamlessly work with other cron services.
 
 ## License
 
